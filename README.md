@@ -52,10 +52,14 @@ This is the place where I opensource stuff and break things :moyai:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=novandi18&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=novandi18&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=novandi18&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
+      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=novandi18&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
+
+#### Support me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/novandiramadhan)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/novandiramadhan)
