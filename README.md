@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/novandi-ramadhan/">
     <img alt="Novandi's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://forum.xda-developers.com/m/novanr64.8159146/">
-    <img alt="Novandi's XDA" src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" />
-  </a>
   <a href="https://stackoverflow.com/users/11515301/novandi-ramadhan">
     <img alt="Novandi's Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
@@ -32,7 +29,6 @@ This is the place where I opensource stuff and break things :moyai:
 
 #### Things i code with
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -46,7 +42,6 @@ This is the place where I opensource stuff and break things :moyai:
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=fflat-square&logo=google-cloud&logoColor=white" />
   <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -54,4 +49,5 @@ This is the place where I opensource stuff and break things :moyai:
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-
+![Novandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=novandi18&theme=ayu-mirage)&nbsp;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=novandi18&theme=ayu-mirage)
