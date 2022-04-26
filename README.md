@@ -62,5 +62,3 @@ This is the place where I opensource stuff and break things :moyai:
 
 #### Support me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/novandiramadhan)
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/novandiramadhan)
-[![ibrepay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/novandiramadhan/donate)
