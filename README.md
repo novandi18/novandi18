@@ -18,13 +18,13 @@
 
 ---
 
-I'm Novandi, Fullstack Developer and UI/UX Designer from Banten, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" alt="Indonesia" width="13"/>, i take great care in the experience, design, and code quality of the things I build. I am also a Javascript Enthusiast :blush:
+I'm Novandi, JavaScript Enthusiast from Banten, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" alt="Indonesia" width="13"/>, i take great care in the experience, design, and code quality of the things I build. I am also a Javascript Enthusiast :blush:
 
 This is the place where I opensource stuff and break things :moyai:
 
 - 🔭 I’m currently working on something new :sunglasses:
 - 🌱 I’m currently learning Kotlin and NoSQL
-- :pencil: Ask me anything related to JavaScript/PHP/Laravel/Vue
+- :pencil: Ask me anything related to JavaScript/PHP/Laravel/React/Kotlin
 - 📫 How to reach me: [novandiramadhan80@gmail.com](mailto:novandiramadhan80@gmail.com)
 
 #### Things i code with
