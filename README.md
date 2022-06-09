@@ -1,5 +1,5 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- ## Hey there :moyai: -->
+<!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+## Hey there :moyai:
 <img src="https://i.ibb.co/7R9Rwpv/banner.png" alt="Banner" width="100%"/>
 <p align="center">
   <a href="https://github.com/novandi18/">
