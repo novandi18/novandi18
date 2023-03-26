@@ -18,7 +18,7 @@
 
 ---
 
-I'm Novandi, React Developer from Banten, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" alt="Indonesia" width="13"/>, i take great care in the experience, design, and code quality of the things I build. I am also a UI/UX Designer and JavaScript Enthusiast :blush:
+I'm Novandi, React Developer from Banten, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" alt="Indonesia" width="13"/>, i take great care in the experience, design, and code quality of the things I build. I am also a UI/UX Designer and JavaScript Enthusiast :blush:. Currently i learned a lot of Kotlin for Android Development :wink:.
 
 This is the place where I opensource stuff and break things :moyai:
 
