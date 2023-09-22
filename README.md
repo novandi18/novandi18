@@ -23,7 +23,7 @@ I'm Novandi, React Developer from Banten, Indonesia <img src="https://cdn-icons-
 This is the place where I opensource stuff and break things :moyai:
 
 - 🔭 I’m currently working on something new :sunglasses:
-- 🌱 I’m currently learning Kotlin and NoSQL
+- 🌱 I’m currently learning Flutter and NoSQL
 - :pencil: Ask me anything related to JavaScript/PHP/Laravel/React/Kotlin
 - 📫 How to reach me: [novandiramadhan80@gmail.com](mailto:novandiramadhan80@gmail.com)
 
